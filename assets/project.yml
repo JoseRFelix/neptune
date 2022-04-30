@@ -1,0 +1,20 @@
+project:
+  whitepaper:
+    url: "https://example.org/whitepaper.pdf"
+  roadmap:
+    milestones:
+      - title: Milestone 3
+        date: 2022-05-05
+        description: Brief description ipsum dolor sit amet, consectetur adipiscing elit...
+  tokenomics:
+    distribution:
+      - title: Marketing
+        share: 25%
+  team:
+    members:
+      - name: Bob
+        title: CEO
+        description: Bio lorem consequat efficitur iaculis. Nam eu tincidunt nunc...
+  links: # Not sure about this
+    - type: twitter
+      url: https://twitter.com/example
