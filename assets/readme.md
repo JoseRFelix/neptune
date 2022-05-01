@@ -1,6 +1,6 @@
 # About the project
 
-![Test Image]("https://generative-placeholders.glitch.me/image")
+![Test Image](https://generative-placeholders.glitch.me/image)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In suscipit est
 metus, at fermentum quam mollis eu. Phasellus posuere augue massa. Donec
@@ -26,6 +26,8 @@ viverra in.
 ## The market
 
 ### Games in the Cosmos
+
+![Local Image](/images/placeholder.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In suscipit est
 metus, at fermentum quam mollis eu. Phasellus posuere augue massa. Donec
