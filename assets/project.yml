@@ -3,15 +3,19 @@ project:
     url: "https://example.org/whitepaper.pdf"
   roadmap:
     milestones:
-      - title: Milestone 1
+      - title: Project started
         date: 2022-04-05
         status: completed
         description: Brief description ipsum dolor sit amet, consectetur adipiscing elit...
-      - title: Milestone 2
+      - title: Testnet 1
+        date: 2022-04-05
+        status: completed
+        description: Brief description ipsum dolor sit amet, consectetur adipiscing elit...
+      - title: Keplr Integration
         date: 2022-06-05
         status: active
         description: Brief description ipsum dolor sit amet, consectetur adipiscing elit...
-      - title: Milestone 3
+      - title: Mainnet
         date: 2022-07-05
         status: expected
         description: Brief description ipsum dolor sit amet, consectetur adipiscing elit...
