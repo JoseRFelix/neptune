@@ -3,8 +3,17 @@ project:
     url: "https://example.org/whitepaper.pdf"
   roadmap:
     milestones:
+      - title: Milestone 1
+        date: 2022-04-05
+        status: completed
+        description: Brief description ipsum dolor sit amet, consectetur adipiscing elit...
+      - title: Milestone 2
+        date: 2022-06-05
+        status: active
+        description: Brief description ipsum dolor sit amet, consectetur adipiscing elit...
       - title: Milestone 3
-        date: 2022-05-05
+        date: 2022-07-05
+        status: expected
         description: Brief description ipsum dolor sit amet, consectetur adipiscing elit...
   tokenomics:
     distribution:
