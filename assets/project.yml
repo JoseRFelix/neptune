@@ -36,5 +36,5 @@ project:
       url: https://discord.com
       display: true
     - type: telegram
-      url: https://web.telegram.org/z/
+      url: https://t.me/example
       display: true
