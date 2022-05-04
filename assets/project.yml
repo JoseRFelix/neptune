@@ -28,6 +28,13 @@ project:
       - name: Bob
         title: CEO
         description: Bio lorem consequat efficitur iaculis. Nam eu tincidunt nunc...
-  links: # Not sure about this
+  links:
     - type: twitter
       url: https://twitter.com/example
+      display: true
+    - type: discord
+      url: https://discord.com
+      display: true
+    - type: telegram
+      url: https://web.telegram.org/z/
+      display: true
