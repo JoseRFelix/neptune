@@ -28,6 +28,12 @@ project:
       - name: Bob
         title: CEO
         description: Bio lorem consequat efficitur iaculis. Nam eu tincidunt nunc...
+      - name: Foo
+        title: CTO
+        description: Bio lorem consequat efficitur iaculis. Nam eu tincidunt nunc...
+      - name: Bar
+        title: Developer
+        description: Bio lorem consequat efficitur iaculis. Nam eu tincidunt nunc...
   links:
     - type: twitter
       url: https://twitter.com/example
